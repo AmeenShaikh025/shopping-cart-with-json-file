@@ -1,3 +1,9 @@
+//first install json server using terminal 
+//command to run json server
+
+json-server public/db.json --port 8000
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
