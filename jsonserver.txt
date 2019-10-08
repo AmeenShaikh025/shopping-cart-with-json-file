@@ -1,0 +1,3 @@
+//command to run json server
+
+json-server public/db.json --port 8000
